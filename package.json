@@ -1,0 +1,18 @@
+{
+  "name": "express-super-router",
+  "version": "0.0.1",
+  "description": "一款express的中间件，参数校验、接口缓存、接口限流、权限校验等功能通过此插件一站式解决",
+  "main": "src/index.js",
+  "repository": "git@github.com:xiangsx/express-super-router.git",
+  "author": "xiangsx <1984871009@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "express": "^4.18.2",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {}
+}
